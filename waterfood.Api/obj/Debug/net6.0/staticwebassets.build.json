@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "PWlZCBI8JiNZ8gMmtbu3F80ulW3GKl4FqyEHE4Swr6I=",
+  "Source": "waterfood.Api",
+  "BasePath": "_content/waterfood.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,51 @@
+﻿@using waterfood.Core.Objects.Pages
+@model List<waterfood.Data.Entities.Items.Item>
+@{
+    ViewData["Title"] = "Center List";
+    Layout = "_Layout";
+    var page = new Page() { SubTitle = "Center List", Title = "Center" };
+}
+
+<partial name="_SubHeader" model="page" />
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-12">
+            <form method="post" asp-action="Search">
+                <input type="text" name="verb" class="form-control" placeholder="Serach..." />
+            </form>
+        </div>
+
+    </div>
+    <table class="table table-bordered bg-white">
+        <thead>
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">Name </th>
+                <th scope="col">Center Name</th>
+                <th scope="col">Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var c in Model)
+            {
+                <tr>
+                    <th scope="row">@c.ItemId</th>
+                    <td>@c.Name</td>
+                    <td>@c.Center.Name</td>
+                    <td>
+                        <a href="/Admin/Item/UpdateItem/@c.ItemId" class="btn btn-sm btn-secondary">
+                            <i class="fa fa-edit"></i>
+                            Edit
+                        </a>
+                        <a href="/Admin/Item/DeleteItem/@c.ItemId" class="btn btn-sm btn-secondary">
+                            <i class="fa fa-trash-alt"></i>
+                            Remove
+                        </a>
+                    </td>
+                </tr>
+            }
+
+        </tbody>
+    </table>
+
+</div>

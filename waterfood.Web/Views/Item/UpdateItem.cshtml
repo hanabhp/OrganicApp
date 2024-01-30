@@ -1,0 +1,130 @@
+﻿@using waterfood.Core.Objects.Pages;
+@using waterfood.Data.Entities.Centers;
+@using waterfood.Data.Entities.Generals;
+@model waterfood.Data.Entities.Items.Item
+@{
+    ViewData["Title"] = "item List";
+    Layout = "_Layout";
+    var page = new Page() { SubTitle = "item List", Title = "item" };
+    var centers = ViewBag.Centers as List<Center>;
+    var category = ViewBag.Categories as List<Category>;
+}
+<partial name="_SubHeader" model="page" />
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-12">
+            <div class="card border shadow">
+                <div class="card-body">
+                    <form method="post" asp-action="Save">
+                        <div class="form-group">
+                            <label class="mt-5">Name</label>
+                            <input type="text" asp-for="Name" class="form-control mb-5" placeholder="Title" required>
+                            <label class="mt-5">Description</label>
+                            <input type="text" asp-for="Description" class="form-control mb-5" placeholder="Owner ref" required>
+                            <select asp-for="CenterRef" class="form-control my-5">
+                                @foreach (var c in centers)
+                                {
+                                    @if (Model != null && Model.CenterRef > 0 && Model.CenterRef == c.CenterId)
+                                    {
+                                        <option selected value="@Model.CenterRef">@Model.Center.Name</option>
+                                    }
+                                    else
+                                    {
+                                        <option value="@c.CenterId">@c.Name</option>
+                                    }
+                                }
+                            </select>
+                            <select asp-for="CategoryRef" class="form-control my-5">
+                                @foreach (var c in category)
+                                {
+                                    @if (Model != null && Model.CategoryRef > 0 && Model.CategoryRef == c.CategoryId)
+                                    {
+                                        <option selected value="@Model.CategoryRef">@Model.Category.Title</option>
+                                    }
+                                    else
+                                    {
+                                        <option value="@c.CategoryId">@c.Title</option>
+                                    }
+                                }
+                            </select>
+                        </div>
+                        <div class="card-body m-0 p-0 pb-2">
+                            @if (Model != null && !string.IsNullOrEmpty(Model.Image))
+                            {
+                                <input type="file" id="course-image-file" name="File" accept="image/*" hidden>
+                                <div class="img-area img-area-course-image" id="course-image-area" data-img="">
+                                    <i class="fa fa-upload icon"></i>
+                                    <h3>تصویر اصلی</h3>
+                                    <p>تصویر باید کمتر از <span>250 KB</span> کیلوبایت باشد </p>
+                                    <img id="course-current-image" src="/assets/media/items/@Model.Image" />
+                                </div>
+                                <button type="button" id="course-image"
+                                        class="btn btn-sm mx-2 btn-outline-primary text-center px-4">
+                                    انتخاب تصویر
+                                </button>
+                            }
+                            else
+                            {
+                                <input type="file" id="course-image-file" name="File" accept="image/*" hidden>
+                                <div class="img-area img-area-course-image" id="course-image-area" data-img="">
+                                    <i class="fa fa-upload icon"></i>
+                                    <h3>تصویر اصلی</h3>
+                                    <p>تصویر باید کمتر از <span>250 KB</span> کیلوبایت باشد </p>
+                                </div>
+                                <button type="button" id="course-image"
+                                        class="btn btn-sm mx-2 btn-outline-primary text-center px-4">
+                                    انتخاب تصویر
+                                </button>
+                            }
+                        </div>
+                        <button type="submit" class="btn btn-primary">Save</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts
+    {
+    <script asp-append-version="true" src="~/assets/js/pages/crud/forms/widgets/select2.js"></script>
+    <script asp-append-version="true" src="~/assets/js/custom/new.js"></script>
+
+
+}
+<script>
+
+
+    const selectImage = document.querySelector('#course-image');
+
+    const inputFile = document.querySelector('#course-image-file');
+
+    const imgArea = document.querySelector('#course-image-area');
+
+    selectImage.addEventListener('click', function () {
+        inputFile.click();
+    });
+
+    inputFile.addEventListener('change', function () {
+        const image = this.files[0];
+        if (image.size > 256000) {
+            notify("error", "تصویر باید کمتر از 250 کیلوبایت باشد");
+        }
+        else {
+            const reader = new FileReader();
+            reader.onload = () => {
+                const allImg = imgArea.querySelectorAll('img');
+                allImg.forEach(item => item.remove());
+                const imgUrl = reader.result;
+                const img = document.createElement('img');
+                img.src = imgUrl;
+                imgArea.appendChild(img);
+                imgArea.classList.add('active');
+                imgArea.dataset.img = image.name;
+            }
+
+            reader.readAsDataURL(image);
+        }
+    });
+
+</script>

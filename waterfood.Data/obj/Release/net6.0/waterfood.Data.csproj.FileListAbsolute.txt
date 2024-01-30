@@ -1,0 +1,14 @@
+D:\Freelancering\water-food\waterfood\waterfood.Data\bin\Release\net6.0\waterfood.Data.deps.json
+D:\Freelancering\water-food\waterfood\waterfood.Data\bin\Release\net6.0\waterfood.Data.runtimeconfig.json
+D:\Freelancering\water-food\waterfood\waterfood.Data\bin\Release\net6.0\waterfood.Data.dll
+D:\Freelancering\water-food\waterfood\waterfood.Data\bin\Release\net6.0\waterfood.Data.pdb
+D:\Freelancering\water-food\waterfood\waterfood.Data\obj\Release\net6.0\waterfood.Data.csproj.AssemblyReference.cache
+D:\Freelancering\water-food\waterfood\waterfood.Data\obj\Release\net6.0\waterfood.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Freelancering\water-food\waterfood\waterfood.Data\obj\Release\net6.0\waterfood.Data.AssemblyInfoInputs.cache
+D:\Freelancering\water-food\waterfood\waterfood.Data\obj\Release\net6.0\waterfood.Data.AssemblyInfo.cs
+D:\Freelancering\water-food\waterfood\waterfood.Data\obj\Release\net6.0\waterfood.Data.csproj.CoreCompileInputs.cache
+D:\Freelancering\water-food\waterfood\waterfood.Data\obj\Release\net6.0\waterfood.Data.dll
+D:\Freelancering\water-food\waterfood\waterfood.Data\obj\Release\net6.0\refint\waterfood.Data.dll
+D:\Freelancering\water-food\waterfood\waterfood.Data\obj\Release\net6.0\waterfood.Data.pdb
+D:\Freelancering\water-food\waterfood\waterfood.Data\obj\Release\net6.0\waterfood.Data.genruntimeconfig.cache
+D:\Freelancering\water-food\waterfood\waterfood.Data\obj\Release\net6.0\ref\waterfood.Data.dll

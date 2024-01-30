@@ -1,0 +1,164 @@
+D:\Freelancering\water-food\waterfood\waterfood.Api\bin\Debug\net6.0\appsettings.Development.json
+D:\Freelancering\water-food\waterfood\waterfood.Api\bin\Debug\net6.0\appsettings.json
+D:\Freelancering\water-food\waterfood\waterfood.Api\bin\Debug\net6.0\waterfood.Api.exe
+D:\Freelancering\water-food\waterfood\waterfood.Api\bin\Debug\net6.0\waterfood.Api.deps.json
+D:\Freelancering\water-food\waterfood\waterfood.Api\bin\Debug\net6.0\waterfood.Api.runtimeconfig.json
+D:\Freelancering\water-food\waterfood\waterfood.Api\bin\Debug\net6.0\waterfood.Api.dll
+D:\Freelancering\water-food\waterfood\waterfood.Api\bin\Debug\net6.0\waterfood.Api.pdb
+D:\Freelancering\water-food\waterfood\waterfood.Api\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+D:\Freelancering\water-food\waterfood\waterfood.Api\bin\Debug\net6.0\MailKit.dll
+D:\Freelancering\water-food\waterfood\waterfood.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Freelancering\water-food\waterfood\waterfood.Api\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Freelancering\water-food\waterfood\waterfood.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Freelancering\water-food\waterfood\waterfood.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Freelancering\water-food\waterfood\waterfood.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Freelancering\water-food\waterfood\waterfood.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Freelancering\water-food\waterfood\waterfood.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Freelancering\water-food\waterfood\waterfood.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Freelancering\water-food\waterfood\waterfood.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Freelancering\water-food\waterfood\waterfood.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Freelancering\water-food\waterfood\waterfood.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Freelancering\water-food\waterfood\waterfood.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Freelancering\water-food\waterfood\waterfood.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Freelancering\water-food\waterfood\waterfood.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Freelancering\water-food\waterfood\waterfood.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Freelancering\water-food\waterfood\waterfood.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Freelancering\water-food\waterfood\waterfood.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Freelancering\water-food\waterfood\waterfood.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Freelancering\water-food\waterfood\waterfood.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Freelancering\water-food\waterfood\waterfood.Api\bin\Debug\net6.0\MimeKit.dll
+D:\Freelancering\water-food\waterfood\waterfood.Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Freelancering\water-food\waterfood\waterfood.Api\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\Freelancering\water-food\waterfood\waterfood.Api\bin\Debug\net6.0\QRCoder.dll
+D:\Freelancering\water-food\waterfood\waterfood.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Freelancering\water-food\waterfood\waterfood.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Freelancering\water-food\waterfood\waterfood.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Freelancering\water-food\waterfood\waterfood.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Freelancering\water-food\waterfood\waterfood.Api\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Freelancering\water-food\waterfood\waterfood.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Freelancering\water-food\waterfood\waterfood.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Freelancering\water-food\waterfood\waterfood.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Freelancering\water-food\waterfood\waterfood.Api\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\Freelancering\water-food\waterfood\waterfood.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Freelancering\water-food\waterfood\waterfood.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Freelancering\water-food\waterfood\waterfood.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Freelancering\water-food\waterfood\waterfood.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Freelancering\water-food\waterfood\waterfood.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Freelancering\water-food\waterfood\waterfood.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Freelancering\water-food\waterfood\waterfood.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Freelancering\water-food\waterfood\waterfood.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Freelancering\water-food\waterfood\waterfood.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Freelancering\water-food\waterfood\waterfood.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Freelancering\water-food\waterfood\waterfood.Api\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Freelancering\water-food\waterfood\waterfood.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Freelancering\water-food\waterfood\waterfood.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Freelancering\water-food\waterfood\waterfood.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\Freelancering\water-food\waterfood\waterfood.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Freelancering\water-food\waterfood\waterfood.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Freelancering\water-food\waterfood\waterfood.Api\bin\Debug\net6.0\waterfood.Core.dll
+D:\Freelancering\water-food\waterfood\waterfood.Api\bin\Debug\net6.0\waterfood.Data.dll
+D:\Freelancering\water-food\waterfood\waterfood.Api\bin\Debug\net6.0\waterfood.Core.pdb
+D:\Freelancering\water-food\waterfood\waterfood.Api\bin\Debug\net6.0\waterfood.Data.pdb
+D:\Freelancering\water-food\waterfood\waterfood.Api\obj\Debug\net6.0\waterfood.Api.csproj.AssemblyReference.cache
+D:\Freelancering\water-food\waterfood\waterfood.Api\obj\Debug\net6.0\waterfood.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Freelancering\water-food\waterfood\waterfood.Api\obj\Debug\net6.0\waterfood.Api.AssemblyInfoInputs.cache
+D:\Freelancering\water-food\waterfood\waterfood.Api\obj\Debug\net6.0\waterfood.Api.AssemblyInfo.cs
+D:\Freelancering\water-food\waterfood\waterfood.Api\obj\Debug\net6.0\waterfood.Api.csproj.CoreCompileInputs.cache
+D:\Freelancering\water-food\waterfood\waterfood.Api\obj\Debug\net6.0\waterfood.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\Freelancering\water-food\waterfood\waterfood.Api\obj\Debug\net6.0\waterfood.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Freelancering\water-food\waterfood\waterfood.Api\obj\Debug\net6.0\staticwebassets\msbuild.waterfood.Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Freelancering\water-food\waterfood\waterfood.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.waterfood.Api.props
+D:\Freelancering\water-food\waterfood\waterfood.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.waterfood.Api.props
+D:\Freelancering\water-food\waterfood\waterfood.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.waterfood.Api.props
+D:\Freelancering\water-food\waterfood\waterfood.Api\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Freelancering\water-food\waterfood\waterfood.Api\obj\Debug\net6.0\staticwebassets.build.json
+D:\Freelancering\water-food\waterfood\waterfood.Api\obj\Debug\net6.0\staticwebassets.development.json
+D:\Freelancering\water-food\waterfood\waterfood.Api\obj\Debug\net6.0\scopedcss\bundle\waterfood.Api.styles.css
+D:\Freelancering\water-food\waterfood\waterfood.Api\obj\Debug\net6.0\waterfood.Api.csproj.CopyComplete
+D:\Freelancering\water-food\waterfood\waterfood.Api\obj\Debug\net6.0\waterfood.Api.dll
+D:\Freelancering\water-food\waterfood\waterfood.Api\obj\Debug\net6.0\refint\waterfood.Api.dll
+D:\Freelancering\water-food\waterfood\waterfood.Api\obj\Debug\net6.0\waterfood.Api.pdb
+D:\Freelancering\water-food\waterfood\waterfood.Api\obj\Debug\net6.0\waterfood.Api.genruntimeconfig.cache
+D:\Freelancering\water-food\waterfood\waterfood.Api\obj\Debug\net6.0\ref\waterfood.Api.dll
+D:\zFeydProjects\waterfood api\waterfood\waterfood.Api\bin\Debug\net6.0\waterfood.Core.dll
+D:\zFeydProjects\waterfood api\waterfood\waterfood.Api\bin\Debug\net6.0\appsettings.Development.json
+D:\zFeydProjects\waterfood api\waterfood\waterfood.Api\bin\Debug\net6.0\appsettings.json
+D:\zFeydProjects\waterfood api\waterfood\waterfood.Api\bin\Debug\net6.0\waterfood.Api.exe
+D:\zFeydProjects\waterfood api\waterfood\waterfood.Api\bin\Debug\net6.0\waterfood.Api.deps.json
+D:\zFeydProjects\waterfood api\waterfood\waterfood.Api\bin\Debug\net6.0\waterfood.Api.runtimeconfig.json
+D:\zFeydProjects\waterfood api\waterfood\waterfood.Api\bin\Debug\net6.0\waterfood.Api.dll
+D:\zFeydProjects\waterfood api\waterfood\waterfood.Api\bin\Debug\net6.0\waterfood.Api.pdb
+D:\zFeydProjects\waterfood api\waterfood\waterfood.Api\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+D:\zFeydProjects\waterfood api\waterfood\waterfood.Api\bin\Debug\net6.0\MailKit.dll
+D:\zFeydProjects\waterfood api\waterfood\waterfood.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\zFeydProjects\waterfood api\waterfood\waterfood.Api\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\zFeydProjects\waterfood api\waterfood\waterfood.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\zFeydProjects\waterfood api\waterfood\waterfood.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\zFeydProjects\waterfood api\waterfood\waterfood.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\zFeydProjects\waterfood api\waterfood\waterfood.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\zFeydProjects\waterfood api\waterfood\waterfood.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\zFeydProjects\waterfood api\waterfood\waterfood.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\zFeydProjects\waterfood api\waterfood\waterfood.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\zFeydProjects\waterfood api\waterfood\waterfood.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\zFeydProjects\waterfood api\waterfood\waterfood.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\zFeydProjects\waterfood api\waterfood\waterfood.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\zFeydProjects\waterfood api\waterfood\waterfood.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\zFeydProjects\waterfood api\waterfood\waterfood.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\zFeydProjects\waterfood api\waterfood\waterfood.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\zFeydProjects\waterfood api\waterfood\waterfood.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\zFeydProjects\waterfood api\waterfood\waterfood.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\zFeydProjects\waterfood api\waterfood\waterfood.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\zFeydProjects\waterfood api\waterfood\waterfood.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\zFeydProjects\waterfood api\waterfood\waterfood.Api\bin\Debug\net6.0\MimeKit.dll
+D:\zFeydProjects\waterfood api\waterfood\waterfood.Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\zFeydProjects\waterfood api\waterfood\waterfood.Api\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\zFeydProjects\waterfood api\waterfood\waterfood.Api\bin\Debug\net6.0\QRCoder.dll
+D:\zFeydProjects\waterfood api\waterfood\waterfood.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\zFeydProjects\waterfood api\waterfood\waterfood.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\zFeydProjects\waterfood api\waterfood\waterfood.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\zFeydProjects\waterfood api\waterfood\waterfood.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\zFeydProjects\waterfood api\waterfood\waterfood.Api\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\zFeydProjects\waterfood api\waterfood\waterfood.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\zFeydProjects\waterfood api\waterfood\waterfood.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\zFeydProjects\waterfood api\waterfood\waterfood.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\zFeydProjects\waterfood api\waterfood\waterfood.Api\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\zFeydProjects\waterfood api\waterfood\waterfood.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\zFeydProjects\waterfood api\waterfood\waterfood.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\zFeydProjects\waterfood api\waterfood\waterfood.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\zFeydProjects\waterfood api\waterfood\waterfood.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\zFeydProjects\waterfood api\waterfood\waterfood.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\zFeydProjects\waterfood api\waterfood\waterfood.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\zFeydProjects\waterfood api\waterfood\waterfood.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\zFeydProjects\waterfood api\waterfood\waterfood.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\zFeydProjects\waterfood api\waterfood\waterfood.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\zFeydProjects\waterfood api\waterfood\waterfood.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\zFeydProjects\waterfood api\waterfood\waterfood.Api\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\zFeydProjects\waterfood api\waterfood\waterfood.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\zFeydProjects\waterfood api\waterfood\waterfood.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\zFeydProjects\waterfood api\waterfood\waterfood.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\zFeydProjects\waterfood api\waterfood\waterfood.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\zFeydProjects\waterfood api\waterfood\waterfood.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\zFeydProjects\waterfood api\waterfood\waterfood.Api\bin\Debug\net6.0\waterfood.Data.dll
+D:\zFeydProjects\waterfood api\waterfood\waterfood.Api\bin\Debug\net6.0\waterfood.Core.pdb
+D:\zFeydProjects\waterfood api\waterfood\waterfood.Api\bin\Debug\net6.0\waterfood.Data.pdb
+D:\zFeydProjects\waterfood api\waterfood\waterfood.Api\obj\Debug\net6.0\waterfood.Api.csproj.AssemblyReference.cache
+D:\zFeydProjects\waterfood api\waterfood\waterfood.Api\obj\Debug\net6.0\waterfood.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\zFeydProjects\waterfood api\waterfood\waterfood.Api\obj\Debug\net6.0\waterfood.Api.AssemblyInfoInputs.cache
+D:\zFeydProjects\waterfood api\waterfood\waterfood.Api\obj\Debug\net6.0\waterfood.Api.AssemblyInfo.cs
+D:\zFeydProjects\waterfood api\waterfood\waterfood.Api\obj\Debug\net6.0\waterfood.Api.csproj.CoreCompileInputs.cache
+D:\zFeydProjects\waterfood api\waterfood\waterfood.Api\obj\Debug\net6.0\waterfood.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\zFeydProjects\waterfood api\waterfood\waterfood.Api\obj\Debug\net6.0\waterfood.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\zFeydProjects\waterfood api\waterfood\waterfood.Api\obj\Debug\net6.0\staticwebassets\msbuild.waterfood.Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\zFeydProjects\waterfood api\waterfood\waterfood.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.waterfood.Api.props
+D:\zFeydProjects\waterfood api\waterfood\waterfood.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.waterfood.Api.props
+D:\zFeydProjects\waterfood api\waterfood\waterfood.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.waterfood.Api.props
+D:\zFeydProjects\waterfood api\waterfood\waterfood.Api\obj\Debug\net6.0\staticwebassets.pack.json
+D:\zFeydProjects\waterfood api\waterfood\waterfood.Api\obj\Debug\net6.0\staticwebassets.build.json
+D:\zFeydProjects\waterfood api\waterfood\waterfood.Api\obj\Debug\net6.0\staticwebassets.development.json
+D:\zFeydProjects\waterfood api\waterfood\waterfood.Api\obj\Debug\net6.0\scopedcss\bundle\waterfood.Api.styles.css
+D:\zFeydProjects\waterfood api\waterfood\waterfood.Api\obj\Debug\net6.0\waterfood.Api.csproj.CopyComplete
+D:\zFeydProjects\waterfood api\waterfood\waterfood.Api\obj\Debug\net6.0\waterfood.Api.dll
+D:\zFeydProjects\waterfood api\waterfood\waterfood.Api\obj\Debug\net6.0\refint\waterfood.Api.dll
+D:\zFeydProjects\waterfood api\waterfood\waterfood.Api\obj\Debug\net6.0\waterfood.Api.pdb
+D:\zFeydProjects\waterfood api\waterfood\waterfood.Api\obj\Debug\net6.0\waterfood.Api.genruntimeconfig.cache
+D:\zFeydProjects\waterfood api\waterfood\waterfood.Api\obj\Debug\net6.0\ref\waterfood.Api.dll

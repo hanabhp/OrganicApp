@@ -1,0 +1,22 @@
+https://localhost:0000/v1/api/
+[/Account]
+/Register		    POST[Pm me for model]
+/Reset	 		    POST[Pm me for model]
+/GetUserLocationById 	    Get[/userId]
+/GenerateQrCodeImage        Get[]		  Require [Authorize]
+/GetCurrentUser             Get[]		  Require [Authorize]
+
+----------------------------------------------------------------------
+
+[/Center]
+/FavoriteCenters            Get[]                 Require [Authorize]
+/AddToFavorite              POST[Pm Me For Model] Require [Authorize]
+/RemoveFromFavorite	    POST[Pm Me For Model] Require [Authorize]
+
+----------------------------------------------------------------------
+
+[/Reserve]
+/ReserveAnItem 	            POST[Pm Me For Model] Require [Authorize]
+/CheckReservedItemByQrToken POST[Pm Me For Model] Require [Authorize]
+/GetAllItemStatuses         Get[]
+/SetItemStatusByCenterOwner POST[Pm Me For Model] Require [Authorize]

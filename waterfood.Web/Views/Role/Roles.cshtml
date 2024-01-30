@@ -1,0 +1,50 @@
+﻿@using waterfood.Core.Objects.Pages
+@model List<waterfood.Data.Entities.Users.Role>
+@{
+    ViewData["Title"] = "Role List";
+    Layout = "_Layout";
+    var page = new Page() { SubTitle = "Role List", Title = "Role" };
+}
+
+<partial name="_SubHeader" model="page" />
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-12">
+            <form method="post" asp-action="Search">
+                <input type="text" name="verb" class="form-control" placeholder="Serach..." />
+            </form>
+        </div>
+
+    </div>
+    <table class="table table-bordered bg-white">
+        <thead>
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">Title </th>
+                <th scope="col">Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var c in Model)
+            {
+                <tr>
+                    <th scope="row">@c.RoleId</th>
+                    <td>@c.Title</td>
+                   
+                    <td>
+                        <a href="/Admin/Role/UpdateRole/@c.RoleId" class="btn btn-sm btn-secondary">
+                            <i class="fa fa-edit"></i>
+                            Edit
+                        </a>
+                        <a href="/Admin/Role/DeleteRole/@c.RoleId" class="btn btn-sm btn-secondary">
+                            <i class="fa fa-trash-alt"></i>
+                            Remove
+                        </a>
+                    </td>
+                </tr>
+            }
+
+        </tbody>
+    </table>
+
+</div>

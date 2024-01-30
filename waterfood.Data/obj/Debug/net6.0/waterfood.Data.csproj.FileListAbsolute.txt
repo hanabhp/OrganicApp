@@ -1,0 +1,70 @@
+D:\Projects\waterfood\waterfood.Data\bin\Debug\net6.0\waterfood.Data.deps.json
+D:\Projects\waterfood\waterfood.Data\bin\Debug\net6.0\waterfood.Data.runtimeconfig.json
+D:\Projects\waterfood\waterfood.Data\bin\Debug\net6.0\waterfood.Data.dll
+D:\Projects\waterfood\waterfood.Data\bin\Debug\net6.0\waterfood.Data.pdb
+D:\Projects\waterfood\waterfood.Data\obj\Debug\net6.0\waterfood.Data.csproj.AssemblyReference.cache
+D:\Projects\waterfood\waterfood.Data\obj\Debug\net6.0\waterfood.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\waterfood\waterfood.Data\obj\Debug\net6.0\waterfood.Data.AssemblyInfoInputs.cache
+D:\Projects\waterfood\waterfood.Data\obj\Debug\net6.0\waterfood.Data.AssemblyInfo.cs
+D:\Projects\waterfood\waterfood.Data\obj\Debug\net6.0\waterfood.Data.csproj.CoreCompileInputs.cache
+D:\Projects\waterfood\waterfood.Data\obj\Debug\net6.0\waterfood.Data.dll
+D:\Projects\waterfood\waterfood.Data\obj\Debug\net6.0\refint\waterfood.Data.dll
+D:\Projects\waterfood\waterfood.Data\obj\Debug\net6.0\waterfood.Data.pdb
+D:\Projects\waterfood\waterfood.Data\obj\Debug\net6.0\waterfood.Data.genruntimeconfig.cache
+D:\Projects\waterfood\waterfood.Data\obj\Debug\net6.0\ref\waterfood.Data.dll
+D:\Freelancering\water-food\waterfood\waterfood.Data\bin\Debug\net6.0\waterfood.Data.deps.json
+D:\Freelancering\water-food\waterfood\waterfood.Data\bin\Debug\net6.0\waterfood.Data.runtimeconfig.json
+D:\Freelancering\water-food\waterfood\waterfood.Data\bin\Debug\net6.0\waterfood.Data.dll
+D:\Freelancering\water-food\waterfood\waterfood.Data\bin\Debug\net6.0\waterfood.Data.pdb
+D:\Freelancering\water-food\waterfood\waterfood.Data\obj\Debug\net6.0\waterfood.Data.csproj.AssemblyReference.cache
+D:\Freelancering\water-food\waterfood\waterfood.Data\obj\Debug\net6.0\waterfood.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Freelancering\water-food\waterfood\waterfood.Data\obj\Debug\net6.0\waterfood.Data.AssemblyInfoInputs.cache
+D:\Freelancering\water-food\waterfood\waterfood.Data\obj\Debug\net6.0\waterfood.Data.AssemblyInfo.cs
+D:\Freelancering\water-food\waterfood\waterfood.Data\obj\Debug\net6.0\waterfood.Data.csproj.CoreCompileInputs.cache
+D:\Freelancering\water-food\waterfood\waterfood.Data\obj\Debug\net6.0\waterfood.Data.dll
+D:\Freelancering\water-food\waterfood\waterfood.Data\obj\Debug\net6.0\refint\waterfood.Data.dll
+D:\Freelancering\water-food\waterfood\waterfood.Data\obj\Debug\net6.0\waterfood.Data.pdb
+D:\Freelancering\water-food\waterfood\waterfood.Data\obj\Debug\net6.0\waterfood.Data.genruntimeconfig.cache
+D:\Freelancering\water-food\waterfood\waterfood.Data\obj\Debug\net6.0\ref\waterfood.Data.dll
+D:\Projects\waterfood api\waterfood\waterfood.Data\bin\Debug\net6.0\waterfood.Data.deps.json
+D:\Projects\waterfood api\waterfood\waterfood.Data\bin\Debug\net6.0\waterfood.Data.runtimeconfig.json
+D:\Projects\waterfood api\waterfood\waterfood.Data\bin\Debug\net6.0\waterfood.Data.dll
+D:\Projects\waterfood api\waterfood\waterfood.Data\bin\Debug\net6.0\waterfood.Data.pdb
+D:\Projects\waterfood api\waterfood\waterfood.Data\obj\Debug\net6.0\waterfood.Data.csproj.AssemblyReference.cache
+D:\Projects\waterfood api\waterfood\waterfood.Data\obj\Debug\net6.0\waterfood.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\waterfood api\waterfood\waterfood.Data\obj\Debug\net6.0\waterfood.Data.AssemblyInfoInputs.cache
+D:\Projects\waterfood api\waterfood\waterfood.Data\obj\Debug\net6.0\waterfood.Data.AssemblyInfo.cs
+D:\Projects\waterfood api\waterfood\waterfood.Data\obj\Debug\net6.0\waterfood.Data.csproj.CoreCompileInputs.cache
+D:\Projects\waterfood api\waterfood\waterfood.Data\obj\Debug\net6.0\waterfood.Data.dll
+D:\Projects\waterfood api\waterfood\waterfood.Data\obj\Debug\net6.0\refint\waterfood.Data.dll
+D:\Projects\waterfood api\waterfood\waterfood.Data\obj\Debug\net6.0\waterfood.Data.pdb
+D:\Projects\waterfood api\waterfood\waterfood.Data\obj\Debug\net6.0\waterfood.Data.genruntimeconfig.cache
+D:\Projects\waterfood api\waterfood\waterfood.Data\obj\Debug\net6.0\ref\waterfood.Data.dll
+D:\zFeydProjects\waterfood api\waterfood\waterfood.Data\bin\Debug\net6.0\waterfood.Data.deps.json
+D:\zFeydProjects\waterfood api\waterfood\waterfood.Data\bin\Debug\net6.0\waterfood.Data.runtimeconfig.json
+D:\zFeydProjects\waterfood api\waterfood\waterfood.Data\bin\Debug\net6.0\waterfood.Data.dll
+D:\zFeydProjects\waterfood api\waterfood\waterfood.Data\bin\Debug\net6.0\waterfood.Data.pdb
+D:\zFeydProjects\waterfood api\waterfood\waterfood.Data\obj\Debug\net6.0\waterfood.Data.csproj.AssemblyReference.cache
+D:\zFeydProjects\waterfood api\waterfood\waterfood.Data\obj\Debug\net6.0\waterfood.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\zFeydProjects\waterfood api\waterfood\waterfood.Data\obj\Debug\net6.0\waterfood.Data.AssemblyInfoInputs.cache
+D:\zFeydProjects\waterfood api\waterfood\waterfood.Data\obj\Debug\net6.0\waterfood.Data.AssemblyInfo.cs
+D:\zFeydProjects\waterfood api\waterfood\waterfood.Data\obj\Debug\net6.0\waterfood.Data.csproj.CoreCompileInputs.cache
+D:\zFeydProjects\waterfood api\waterfood\waterfood.Data\obj\Debug\net6.0\waterfood.Data.dll
+D:\zFeydProjects\waterfood api\waterfood\waterfood.Data\obj\Debug\net6.0\refint\waterfood.Data.dll
+D:\zFeydProjects\waterfood api\waterfood\waterfood.Data\obj\Debug\net6.0\waterfood.Data.pdb
+D:\zFeydProjects\waterfood api\waterfood\waterfood.Data\obj\Debug\net6.0\waterfood.Data.genruntimeconfig.cache
+D:\zFeydProjects\waterfood api\waterfood\waterfood.Data\obj\Debug\net6.0\ref\waterfood.Data.dll
+D:\Works\Code\waterfood\waterfood.Data\bin\Debug\net6.0\waterfood.Data.deps.json
+D:\Works\Code\waterfood\waterfood.Data\bin\Debug\net6.0\waterfood.Data.runtimeconfig.json
+D:\Works\Code\waterfood\waterfood.Data\bin\Debug\net6.0\waterfood.Data.dll
+D:\Works\Code\waterfood\waterfood.Data\bin\Debug\net6.0\waterfood.Data.pdb
+D:\Works\Code\waterfood\waterfood.Data\obj\Debug\net6.0\waterfood.Data.csproj.AssemblyReference.cache
+D:\Works\Code\waterfood\waterfood.Data\obj\Debug\net6.0\waterfood.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Works\Code\waterfood\waterfood.Data\obj\Debug\net6.0\waterfood.Data.AssemblyInfoInputs.cache
+D:\Works\Code\waterfood\waterfood.Data\obj\Debug\net6.0\waterfood.Data.AssemblyInfo.cs
+D:\Works\Code\waterfood\waterfood.Data\obj\Debug\net6.0\waterfood.Data.csproj.CoreCompileInputs.cache
+D:\Works\Code\waterfood\waterfood.Data\obj\Debug\net6.0\waterfood.Data.dll
+D:\Works\Code\waterfood\waterfood.Data\obj\Debug\net6.0\refint\waterfood.Data.dll
+D:\Works\Code\waterfood\waterfood.Data\obj\Debug\net6.0\waterfood.Data.pdb
+D:\Works\Code\waterfood\waterfood.Data\obj\Debug\net6.0\waterfood.Data.genruntimeconfig.cache
+D:\Works\Code\waterfood\waterfood.Data\obj\Debug\net6.0\ref\waterfood.Data.dll

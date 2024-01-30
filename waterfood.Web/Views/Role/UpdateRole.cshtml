@@ -1,0 +1,32 @@
+﻿@using waterfood.Core.Objects.Pages
+@model waterfood.Data.Entities.Users.Role
+@{
+    Layout = "_Layout";
+    ViewData["Title"] = "Update Category";
+    var page = new Page() { SubTitle = "Category List", Title = "Category" };
+}
+<partial name="_SubHeader" model="page" />
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-12">
+            <div class="card border shadow">
+                <div class="card-body">
+                    <form method="post" asp-action="EditRole">
+                        <input type="hidden" asp-for="RoleId" />
+                        <div class="form-group">
+                            <label>Title</label>
+                            <input type="text" asp-for="Title" class="form-control" placeholder="Title">
+                        </div>
+
+                        <button type="submit" class="btn btn-primary">Save</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+@section Scripts
+    {
+    <script asp-append-version="true" src="~/assets/js/pages/crud/forms/widgets/select2.js"></script>
+    <script asp-append-version="true" src="~/assets/js/custom/new.js"></script>
+}

@@ -1,0 +1,116 @@
+﻿@using waterfood.Core.Objects.Pages;
+@model waterfood.Data.Entities.Centers.Center
+@{
+    ViewData["Title"] = "Center List";
+    Layout = "_Layout";
+    var page = new Page() { SubTitle = "Center List", Title = "Center" };
+}
+<partial name="_SubHeader" model="page" />
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-12">
+            <div class="card border shadow">
+                <div class="card-body">
+                    <form method="post" asp-action="Save">
+                        <div class="form-group">
+
+                            <label>Name</label>
+                            <input type="text" asp-for="Name" class="form-control" placeholder="Title" required>
+                            
+                            <label style="margin-top:56px">Owner:</label>
+                            <select class="form-control" asp-for="OwnerRef">
+                                @foreach (var user in ViewBag.users)
+                                {
+                                    <option value="@user.UserId">@user.FirstName @user.LastName</option>
+                                }
+                            </select>
+
+                            <label style="margin-top:56px">ScheduledTimeStart</label>
+                            <input type="date" asp-for="ScheduledTimeStart" class="form-control" required>
+                           
+                            <label style="margin-top:56px">ScheduledTimeEnd</label>
+                            <input type="date" asp-for="ScheduledTimeEnd" class="form-control" required>
+
+                            <label style="margin-top:56px">State</label>
+                            <input type="checkbox" asp-for="State" class="form-control" required>
+                        </div>
+                        <div class="card-body m-0 p-0 pb-2">
+                            @if (Model != null && !string.IsNullOrEmpty(Model.CenterImage))
+                            {
+                                <input type="file" id="center-image-file" name="File" accept="image/*" hidden>
+                                <div class="img-area img-area-center-image" id="center-image-area" data-img="">
+                                    <i class="fa fa-upload icon"></i>
+                                    <h3>Original image</h3>
+                                    <p>Image must be less than <span>250 KB</span></p>
+                                    <img id="center-current-image" src="/assets/media/centers/@Model.CenterImage" />
+                                </div>
+                                <button type="button" id="center-image"
+                                        class="btn btn-sm mx-2 btn-outline-primary text-center px-4">
+                                    Select image
+                                </button>
+                            }
+                            else
+                            {
+                                <input type="file" id="center-image-file" name="File" accept="image/*" hidden>
+                                <div class="img-area img-area-center-image" id="center-image-area" data-img="">
+                                    <i class="fa fa-upload icon"></i>
+                                    <h3>Original image</h3>
+                                    <p>Image must be less than <span>250 KB</span></p>
+                                </div>
+                                <button type="button" id="center-image"
+                                        class="btn btn-sm mx-2 btn-outline-primary text-center px-4">
+                                    Select image
+                                </button>
+                            }
+                        </div>
+                        <button type="submit" class="btn btn-primary">Save</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts
+    {
+    <script asp-append-version="true" src="~/assets/js/pages/crud/forms/widgets/select2.js"></script>
+    <script asp-append-version="true" src="~/assets/js/custom/new.js"></script>
+
+
+}
+<script>
+
+   
+    const selectImage = document.querySelector('#center-image');
+
+    const inputFile = document.querySelector('#center-image-file');
+
+    const imgArea = document.querySelector('#center-image-area');
+
+    selectImage.addEventListener('click', function () {
+        inputFile.click();
+    });
+
+    inputFile.addEventListener('change', function () {
+        const image = this.files[0];
+        if (image.size > 256000) {
+            notify("error", "Image must be less than 250 KB");
+        }
+        else {
+            const reader = new FileReader();
+            reader.onload = () => {
+                const allImg = imgArea.querySelectorAll('img');
+                allImg.forEach(item => item.remove());
+                const imgUrl = reader.result;
+                const img = document.createElement('img');
+                img.src = imgUrl;
+                imgArea.appendChild(img);
+                imgArea.classList.add('active');
+                imgArea.dataset.img = image.name;
+            }
+
+            reader.readAsDataURL(image);
+        }
+    });
+
+</script>
